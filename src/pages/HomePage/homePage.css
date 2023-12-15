@@ -1,0 +1,9 @@
+.pf-sections{
+    position: absolute;
+    right: 0;
+}
+
+.pf-section-label{ 
+    margin: 10px, 0px;
+    font-size: 100px;
+}
