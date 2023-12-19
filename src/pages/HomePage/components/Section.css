@@ -1,0 +1,17 @@
+.pf-section-container{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    min-height: 100px;
+}
+  
+.pf-section-label{ 
+    font-size: 100px;
+    transition: 0.5s;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.pf-section-label:hover{
+    transform: scale(1.2)
+}

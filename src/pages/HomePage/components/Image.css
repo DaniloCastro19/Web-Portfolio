@@ -1,0 +1,12 @@
+.img-container{ 
+    width: 600px;
+    overflow: hidden;
+    padding: 20px;
+    /* margin: 20px; */
+}
+
+.pf-image{
+    width: 550px;
+    height: 550px;
+    
+}

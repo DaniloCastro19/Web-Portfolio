@@ -1,9 +1,17 @@
-.pf-sections{
-    position: absolute;
-    right: 0;
+/* body{
+    overflow: hidden;
+} */
+.pf-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.pf-section-label{ 
-    margin: 10px, 0px;
-    font-size: 100px;
-}
+/* .pf-image{ 
+    width: 2000px;
+    min-height: 50vh;
+    float: left;
+    padding: 20px 0px;
+    margin: 0px 40px;    
+} */
