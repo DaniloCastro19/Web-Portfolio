@@ -9,7 +9,9 @@ export function HomePage (){
             <div className="img-container">
                 <Image></Image>
             </div>
-            <Section></Section>
+            <div className="pf-section-container">
+                <Section></Section>
+            </div>
         </div>
     )
 }
